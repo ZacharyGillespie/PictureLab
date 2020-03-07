@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=fPixel
+comment0.text=\r\n\ This\ is\ an\ augmented\ Pixel\ class\ that\ adds\ a\ flag\ for\ whether\ or\ not\ this\ pixel\ is\ an\ edge\r\n\ \r\n\ @author\ Zachary\ Gillespie\r\n\ @version\ 2/5/2020\r\n
+comment1.params=picture\ x\ y
+comment1.target=fPixel(DigitalPicture,\ int,\ int)
+comment2.params=b
+comment2.target=void\ setEdge(boolean)
+comment2.text=\r\n\ This\ sets\ the\ flag\ for\ being\ an\ edge\ to\ true\r\n
+comment3.params=
+comment3.target=boolean\ getEdge()
+comment3.text=\r\n\ This\ gets\ the\ flag\ for\ being\ an\ edge\r\n
+numComments=4

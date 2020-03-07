@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PictureTester
+comment1.params=p\ edgeDist
+comment1.target=fPixel[][]\ edgeDetection(fPicture,\ int)
+comment1.text=\r\n\ Detects\ if\ an\ fPixel\ is\ an\ edge\ and\ if\ so\ it\ sets\ the\ edge\ flag\ to\ true\r\n
+comment2.params=p\ pixelsToBlur\ edgeDist
+comment2.target=void\ antialias(fPicture,\ int,\ int)
+comment2.text=\r\n\ blurs\ fPixels\ that\ are\ on\ edges\ to\ reduce\ the\ sharpness\ of\ an\ image\r\n\ \r\n\ @param\ p\ the\ fPicture\ that\ you\ want\ to\ perform\ the\ antialias\ on\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
